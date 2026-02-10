@@ -24,7 +24,7 @@ Atualmente estudando e praticando conceitos de engenharia de software, desenvolv
 
 **Web**
 - HTML  
-- CSS  
+![CSS](/images.png)
 - React  
 
 **Databases / Bancos de Dados**
