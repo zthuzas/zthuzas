@@ -2,49 +2,33 @@
 <summary>🇧🇷 Português</summary>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2A8&size=24&center=true&vCenter=true&width=650&lines=Arthur+Xavier;Engenharia+de+Software+e+Dados;SQL+%7C+ERP+%7C+IA+%7C+RPA;Construindo+Soluções+Inteligentes" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2A8&size=24&center=true&vCenter=true&width=650&lines=Arthur+Xavier;Sistemas,+Dados+e+Processos;SQL+%7C+ERP+%7C+IA+%7C+RPA;Arquitetando+Soluções+Estruturadas" />
 </p>
 
 ---
 
-## 🧩 Perfil Profissional
+## 🧠 Perfil Profissional
 
-🎓 Estudante e praticante de **Análise e Desenvolvimento de Sistemas** direcionamento para  
-**Banco de Dados, Engenharia de Software e Análise de Dados**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, movido por  
+**inovação, otimização, processos e análise de dados.**
 
-📊 Experiência prática em:
-- Modelagem relacional
-- Consultas avançadas em SQL
-- Estruturação e análise de dados
-- Integração com sistemas ERP
+Base técnica estruturada em **SQL, modelagem relacional e organização de sistemas orientados a dados**, com direcionamento para Engenharia de Software, ERP e automação de processos.
 
-🤖 Interesse e aplicação em:
-- Inteligência Artificial
-- Automação de processos (RPA)
-- Otimização e gestão de processos
+Atualmente atuo como **Analista de Logística na Ouro Safra**, trabalhando com roteirizações, análise de indicadores, gestão de estoque e controle de processos operacionais. Nesse contexto, sigo aplicando os conhecimentos em tecnologia, estruturação de dados e automação com foco na otimização da rotina, ganho de eficiência e melhoria contínua dos fluxos internos.
 
-💡 Foco em desenvolver sistemas organizados, escaláveis e orientados a dados.
+Tenho como eixo central a construção de soluções organizadas, escaláveis e com forte visão sistêmica, conectando dados, processos e tecnologia.
 
 ---
 
-## 🚀 Áreas de Atuação
+## 🚀 Áreas Estratégicas
 
-- 🗄️ Banco de Dados & SQL (MySQL, modelagem, consultas complexas)
-- 🧠 Inteligência Artificial aplicada
-- 🏢 Sistemas ERP e integração de processos
-- 🔄 Automação e RPA
-- 📈 Análise e estruturação de dados
-- 🏗️ Engenharia e Arquitetura de Software
+- 🗄️ SQL e Banco de Dados (modelagem, normalização e performance)
+- 📊 Estruturação, análise e visualização de dados
+- 🏢 Lógica e integração de sistemas ERP
+- 🔄 Automação de processos (RPA)
+- 📈 Business Intelligence (Power BI)
+- 🏗️ Fundamentos sólidos de Engenharia de Software
 - ⚙️ Gestão e otimização de processos
-
----
-
-
-<a href="https://github.com/SEU_USERNAME">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
-</a>
-
-</div>
 
 ---
 
@@ -59,15 +43,15 @@
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🏢 Sistemas & Processos
+### 📊 Dados & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🏢 Processos & Sistemas
 ![ERP](https://img.shields.io/badge/ERP-363636?style=for-the-badge)
 ![RPA](https://img.shields.io/badge/RPA-5C2D91?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge)
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-1E1E1E?style=for-the-badge)
-
-### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -76,50 +60,33 @@
 <!-- ENGLISH VERSION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2A8&size=24&center=true&vCenter=true&width=650&lines=Arthur+Xavier;Software+Engineering+%26+Data;SQL+%7C+ERP+%7C+AI+%7C+RPA;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2A8&size=24&center=true&vCenter=true&width=650&lines=Arthur+Xavier;Systems,+Data+and+Processes;SQL+%7C+ERP+%7C+AI+%7C+RPA;Designing+Structured+Solutions" />
 </p>
 
 ---
 
-## 🧩 Professional Profile
+## 🧠 Professional Profile
 
-🎓 ADS student with strong emphasis on  
-**Databases, Software Engineering and Data Analysts**
+🎓 Systems Analysis and Development student driven by  
+**innovation, optimization, processes and data analytics.**
 
-📊 Practical experience in:
-- Relational database modeling
-- Advanced SQL queries
-- Data structuring and analysis
-- ERP system integration
+Technical foundation built around **SQL, relational database modeling and data-oriented system organization**, with a strong direction toward Software Engineering, ERP environments and process automation.
 
-🤖 Interest and application in:
-- Artificial Intelligence
-- Process automation (RPA)
-- Workflow optimization and management
+Currently working as a **Logistics Analyst at Ouro Safra**, where I am responsible for routing operations, KPI analysis, inventory management and operational process control. In this role, I continuously apply technology, data structuring and automation practices to optimize routines, increase operational efficiency and improve internal workflows.
 
-💡 Focused on building scalable, structured and data-driven systems.
+My core focus is designing structured, scalable and system-oriented solutions — connecting data, processes and technology.
 
 ---
 
-## 🚀 Core Areas
+## 🚀 Strategic Areas
 
-- 🗄️ Databases & SQL
-- 🧠 Artificial Intelligence
-- 🏢 ERP Systems
-- 🔄 Automation & RPA
-- 📊 Data Analysis
-- 🏗️ Software Architecture & Engineering
-- ⚙️ Process Optimization
-
----
-
-
-
-<a href="https://github.com/SEU_USERNAME">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
-</a>
-
-</div>
+- 🗄️ SQL & Databases (modeling, normalization and performance)
+- 📊 Data structuring, analysis and visualization
+- 🏢 ERP systems logic and process integration
+- 🔄 Process automation (RPA)
+- 📈 Business Intelligence (Power BI)
+- 🏗️ Software Engineering foundations
+- ⚙️ Process management and optimization
 
 ---
 
@@ -129,6 +96,8 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![ERP](https://img.shields.io/badge/ERP-363636?style=for-the-badge)
 ![RPA](https://img.shields.io/badge/RPA-5C2D91?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge)
@@ -137,5 +106,5 @@
 ---
 
 <div align="center">
-  <sub>Designing structured systems. Automating processes. Leveraging data.</sub>
+  <sub>Structuring data. Optimizing processes. Engineering solutions.</sub>
 </div>
